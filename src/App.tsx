@@ -46,7 +46,7 @@ export const App = () => {
 		- Height: 95% of available height, to a max of 900px
 	*/
 	return (
-		<BrowserRouter>
+		<BrowserRouter basename={process.env.PUBLIC_URL}>
 			<DbContext.Provider value={appContent}>
 				<Wrap>
 					<CardBack ref={cardRef} {...cardBackSize}>
