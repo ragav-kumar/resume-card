@@ -1,11 +1,7 @@
 import React from 'react'
 import styled from 'styled-components';
 
-interface HeaderProps {
-	
-}
-
-export const Header = ({  }:HeaderProps) => {
+export const Header = () => {
 	return (
 		<Wrap>
 			<Name>Ragav Kumar</Name>

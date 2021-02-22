@@ -3,10 +3,7 @@ import { Link, useLocation } from 'react-router-dom';
 import styled from 'styled-components';
 import { sections } from "../utils/db";
 
-interface MenuProps {
-}
-
-export const Menu = ({  }:MenuProps) => {
+export const Menu = () => {
 	const { pathname } = useLocation();
 	return (
 		<MenuWrap>

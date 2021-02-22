@@ -7,15 +7,15 @@ interface MugshotProps {
 	width: number;
 }
 
-export const Mugshot = ({ type, width }:MugshotProps) => {
+export const Mugshot = ( { width }: MugshotProps ) => {
 	return (
 		<Wrap width={width}>
-			<Head src={headPic} />
+			<Head src={headPic} alt="Picture of Ragav Kumar" />
 		</Wrap>
 	)
 };
 
-const Wrap = styled.div<{width:number}>`
+const Wrap = styled.div<{ width: number }>`
 	border-radius: 50px;
 	width: ${p => p.width}px;
 	height: ${p => p.width}px;

@@ -1,5 +1,5 @@
-import React from 'react';
-import { Competency, Education, History, Profile } from '../pages';
+import { createContext } from 'react';
+import { ContentResponse } from "./types";
 /**
  * Mockup of DB data. Replace with a link to a mySQL DB later.
  */
@@ -11,31 +11,36 @@ export type SectionData = {
 	menuLabel: string;
 	header   : string;
 	path     : string;
-	content  : React.ReactNode;
 };
 /**
- * Menu Sections
+ * Menu Sections. Defined here cause it's used in multiple places
  */
 export const sections:SectionData[] = [
 	{
 		menuLabel: "Profile",
 		header: "Professional Profile",
 		path: "/",
-		content: <Profile />,
 	}, {
 		menuLabel: "Competencies",
 		header: "Professional Competencies",
 		path: "/competencies",
-		content: <Competency />,
 	}, {
 		menuLabel: "Education",
 		header: "Education",
 		path: "/education",
-		content: <Education />,
 	}, {
 		menuLabel: "Experience",
 		header: "Employment History",
 		path: "/experience",
-		content: <History />,
 	},
 ];
+
+export type DbContextType = ContentResponse;
+
+export const blankContext:DbContextType = {
+	profile: [],
+	competencies: [],
+	education: [],
+	experience: [],
+}
+export const DbContext = createContext<DbContextType>(blankContext);

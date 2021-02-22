@@ -2,7 +2,7 @@ import React from 'react'
 import styled from "styled-components";
 
 export const ContentWrap = styled.div`
-	font-size: 20px;
+	font-size: 24px;
 	backdrop-filter: blur(2px);
 	overflow-y: auto;
 	margin-bottom: 20px;

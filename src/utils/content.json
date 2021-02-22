@@ -1,0 +1,136 @@
+{
+  "profile": [
+    "Experienced in Visual Basic, Java, PHP, HTML, Python, WordPress, and various other programming languages and environments",
+    "Experienced in the use of Photoshop for fine-grained adjustment of images for use in research",
+    "Currently taking a course in web design and digital marketing, reinforcing and providing a formal foundation in web development (PHP, HTML, JS, WordPress) and digital design (Photoshop, Illustrator, Indesign)",
+    "Masters of Science in Psychology (Cognition & Brain Science), a testament to my ability to commit to high intensity, long term projects",
+    "Familiar and comfortable with managing tremendous workloads with conflicting requirements and under strict deadlines, all while generating high quality deliverables – an inevitable result of graduate studies in a competitive field"
+  ],
+  "competencies": [
+    {
+      "name": "Web & Desktop Development",
+      "items": [
+        "Experienced with a variety of programming environments – such as Visual Basic, Java, PHP, HTML, Python, and several others – as a consequence of several years of studies in computer engineering and employment in technology-based positions",
+        "Currently taking a formal course in web design and digital marketing; this formalizes my prior experience with web development by providing a backbone of good practices and design principles (i.e. mobile-first, responsive design), filling in gaps from self-learning HTML, PHP, JS, and WordPress",
+        "Advanced knowledge of the Microsoft office suite – Word, Excel, Powerpoint, and Access – with standard usage supplemented by custom macros written in VBA",
+        "Conducted a crowdsourced behavioural psychology study using subjects from Amazon’s mechanical turk, with data collection conducted through a custom site built from the ground up on HTML, PHP, and Flash (with data stored on a MySQL database), which allowed data collection at a rate two orders of magnitude faster than those of most of my peers",
+        "Upgraded and maintained organizational system for psychology research pool at Kwantlen Polytechnic University",
+        "Upgraded all computers in Kitsilano high school from Windows 98 to Windows XP, handling much of the software reinstallation and network configuration involved",
+        "Provided maintenance and system upgrade support for student-facing stations at various schools in the Vancouver School district"
+      ]
+    },
+    {
+      "name": "Interpreting Data and Communicating Ideas",
+      "items": [
+        "Experienced in translating complex, intricate findings into easily understandable form for lay audiences, as a consequence of teaching experience and frequent conference presentations",
+        "Guided first years undergraduate students as they learned the fundamentals of their field, supplementing course material with personal experiences and direct exposure to field research",
+        "Provided lectures on fundamental psychology concepts to first year undergraduate students",
+        "As a Teaching Assistant, served as a point of contact between students and instructor",
+        "Received the \"Competent Communication\" award at Toastmasters International",
+        "Trained in digital marketing strategies"
+      ]
+    },
+    {
+      "name": "Organization and Team Management",
+      "items": [
+        "Supervised and trained research assistants to conduct experiments",
+        "Cataloged and updated inventory of legacy donated computers, and created a an easy-to-understand system for future (non-technically oriented) employees to maintain the inventory and pursue future updates",
+        "Organized classes of undergraduate students in one of their first few courses in psychology, which includes organizing and helping them to conduct their first experiment in the field",
+        "Graded assignment and exam papers, invigilated exams, and performed administrative work for all TA’d courses"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "title": "Bachelor of Science in Computer Science",
+      "start": "2018-1-1",
+      "end": "2020-1-1",
+      "dateOverride": null,
+      "location": "University of Victoria, Victoria, British Columbia, Canada"
+    }, {
+      "title": "Certificate in Web Design & Digital Marketing",
+      "start": "2017-1-1",
+      "end": "2017-1-1",
+      "dateOverride": null,
+      "location": "Q College, Victoria, British Columbia, Canada"
+    }, {
+      "title": "Masters of Science in Psychology (Cognition and Brain Science)",
+      "start": "2013-1-1",
+      "end": "2015-1-1",
+      "dateOverride": null,
+      "location": "University of Victoria, Victoria, British Columbia, Canada"
+    }, {
+      "title": "Bachelor of Applied Arts in Psychology, with Honours",
+      "start": "2008-1-1",
+      "end": "2013-1-1",
+      "dateOverride": null,
+      "location": "Kwantlen Polytechnic University, Surrey, British Columbia, Canada"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Full stack developer",
+      "start": "2018-4-1",
+      "end": null,
+      "dateOverride": null,
+      "employer": "CityAutobahn Technologies",
+      "location": "Victoria, BC"
+    }, {
+      "title": "Wordpress Developer",
+      "start": "2017-5-1",
+      "end": "2019-9-1",
+      "dateOverride": null,
+      "employer": "Q Academy & North Studio",
+      "location": "Victoria, BC"
+    }, {
+      "title": "Web Development Instructor",
+      "start": "2017-5-1",
+      "end": "2019-6-1",
+      "dateOverride": null,
+      "employer": "Q college",
+      "location": "Victoria, BC"
+    }, {
+      "title": "Computer Access Volunteer",
+      "start": "2017-1-1",
+      "end": "2020-3-1",
+      "dateOverride": null,
+      "employer": "Victoria Cool-aid Society, Rock Bay Landing",
+      "location": "Victoria, BC"
+    }, {
+      "title": "Academic Teaching Assistant, various courses",
+      "start": "2013-9-1",
+      "end": "2016-4-1",
+      "dateOverride": null,
+      "employer": "University of Victoria",
+      "location": "Victoria, BC"
+    }, {
+      "title": "Research Assistant",
+      "start": "2010-10-1",
+      "end": "2013-8-1",
+      "dateOverride": null,
+      "employer": "Kwantlen Polytechnic University, Dr. Daniel Bernstein",
+      "location": "Surrey, BC"
+    }, {
+      "title": "Student Assistant",
+      "start": "2009-9-1",
+      "end": "2013-5-1",
+      "dateOverride": null,
+      "employer": "Kwantlen Polytechnic University, Psychology Lab",
+      "location": "Surrey, BC"
+    }, {
+      "title": "Technical Resource Worker",
+      "start": "2007-6-1",
+      "end": "2007-8-1",
+      "dateOverride": "Summer 2007",
+      "employer": "The Hotspot (Community Internet Café)",
+      "location": "Squamish, BC"
+    }, {
+      "title": "Volunteer Assistant Systems Analyst",
+      "start": "2003-6-1",
+      "end": "2004-9-1",
+      "dateOverride": "Summer 2003, Summer 2004",
+      "employer": "Vancouver School Board",
+      "location": "Vancouver, BC"
+    }
+  ]
+}
