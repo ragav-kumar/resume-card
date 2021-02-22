@@ -10,7 +10,7 @@ interface MugshotProps {
 export const Mugshot = ( { width }: MugshotProps ) => {
 	return (
 		<Wrap width={width}>
-			<Head src={headPic} alt="Picture of Ragav Kumar" />
+			<Head src={headPic} alt="Picture of Ragav Kumar" title="Picture of Ragav Kumar" />
 		</Wrap>
 	)
 };
