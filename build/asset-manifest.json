@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/static/js/main.e89961f3.chunk.js",
-    "main.js.map": "/static/js/main.e89961f3.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.6d8c400c.js",
-    "runtime-main.js.map": "/static/js/runtime-main.6d8c400c.js.map",
-    "static/js/2.6bf84c01.chunk.js": "/static/js/2.6bf84c01.chunk.js",
-    "static/js/2.6bf84c01.chunk.js.map": "/static/js/2.6bf84c01.chunk.js.map",
-    "static/js/3.85ec1e89.chunk.js": "/static/js/3.85ec1e89.chunk.js",
-    "static/js/3.85ec1e89.chunk.js.map": "/static/js/3.85ec1e89.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.6bf84c01.chunk.js.LICENSE.txt": "/static/js/2.6bf84c01.chunk.js.LICENSE.txt",
-    "static/media/circuit.38b7c0bf.jpg": "/static/media/circuit.38b7c0bf.jpg",
-    "static/media/mugshot.f3ec6071.png": "/static/media/mugshot.f3ec6071.png"
+    "main.css": "https://card.ragavkumar.com/build/static/css/main.6dea0f05.chunk.css",
+    "main.js": "https://card.ragavkumar.com/build/static/js/main.bc707c37.chunk.js",
+    "main.js.map": "https://card.ragavkumar.com/build/static/js/main.bc707c37.chunk.js.map",
+    "runtime-main.js": "https://card.ragavkumar.com/build/static/js/runtime-main.174234c2.js",
+    "runtime-main.js.map": "https://card.ragavkumar.com/build/static/js/runtime-main.174234c2.js.map",
+    "static/js/2.800b0d94.chunk.js": "https://card.ragavkumar.com/build/static/js/2.800b0d94.chunk.js",
+    "static/js/2.800b0d94.chunk.js.map": "https://card.ragavkumar.com/build/static/js/2.800b0d94.chunk.js.map",
+    "static/js/3.85ec1e89.chunk.js": "https://card.ragavkumar.com/build/static/js/3.85ec1e89.chunk.js",
+    "static/js/3.85ec1e89.chunk.js.map": "https://card.ragavkumar.com/build/static/js/3.85ec1e89.chunk.js.map",
+    "index.html": "https://card.ragavkumar.com/build/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "https://card.ragavkumar.com/build/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.800b0d94.chunk.js.LICENSE.txt": "https://card.ragavkumar.com/build/static/js/2.800b0d94.chunk.js.LICENSE.txt",
+    "static/media/circuit.38b7c0bf.jpg": "https://card.ragavkumar.com/build/static/media/circuit.38b7c0bf.jpg",
+    "static/media/mugshot.f3ec6071.png": "https://card.ragavkumar.com/build/static/media/mugshot.f3ec6071.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.6d8c400c.js",
-    "static/js/2.6bf84c01.chunk.js",
+    "static/js/runtime-main.174234c2.js",
+    "static/js/2.800b0d94.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.e89961f3.chunk.js"
+    "static/js/main.bc707c37.chunk.js"
   ]
 }
