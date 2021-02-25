@@ -21,9 +21,14 @@ export interface ContentResponse {
 	experience: Experience[];
 }
 
+export interface CompetencyItem {
+	label: string;
+	level: number;
+	text: string;
+}
 export interface Competency {
 	name: string;
-	items: string[];
+	items: CompetencyItem[];
 }
 
 export interface Education {

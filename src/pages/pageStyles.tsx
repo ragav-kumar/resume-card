@@ -1,6 +1,8 @@
 import React from 'react'
 import styled from "styled-components";
 
+export const electricBlue = "#59bef6" as const;
+
 export const ContentWrap = styled.div`
 	font-size: 24px;
 	backdrop-filter: blur(2px);
@@ -16,7 +18,7 @@ const Li = styled.li`
 	margin: 5px 0;
 `;
 interface BulletListProps {
-	items: string[];
+	items: (JSX.Element|string)[];
 }
 export const BulletList = ({ items }:BulletListProps) => (
 	<Ul>
