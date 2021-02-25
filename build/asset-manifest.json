@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://card.ragavkumar.com/build/static/css/main.6dea0f05.chunk.css",
-    "main.js": "https://card.ragavkumar.com/build/static/js/main.674e1199.chunk.js",
-    "main.js.map": "https://card.ragavkumar.com/build/static/js/main.674e1199.chunk.js.map",
+    "main.js": "https://card.ragavkumar.com/build/static/js/main.2b822d45.chunk.js",
+    "main.js.map": "https://card.ragavkumar.com/build/static/js/main.2b822d45.chunk.js.map",
     "runtime-main.js": "https://card.ragavkumar.com/build/static/js/runtime-main.174234c2.js",
     "runtime-main.js.map": "https://card.ragavkumar.com/build/static/js/runtime-main.174234c2.js.map",
     "static/js/2.29712363.chunk.js": "https://card.ragavkumar.com/build/static/js/2.29712363.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.174234c2.js",
     "static/js/2.29712363.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.674e1199.chunk.js"
+    "static/js/main.2b822d45.chunk.js"
   ]
 }
